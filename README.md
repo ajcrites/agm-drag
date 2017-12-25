@@ -1,3 +1,6 @@
+# THIS IS FORK OF  - AGM - Angular Google Maps
+## Added marker dragStart and drag event listeners
+
 [![AGM - Angular Google Maps](assets/images/angular-google-maps-logo.png)](https://angular-maps.com/)
 
 # AGM - Angular Google Maps
